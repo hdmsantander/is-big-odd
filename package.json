@@ -1,7 +1,7 @@
 {
   "name": "is-big-odd",
   "description": "Returns true if the given number is odd, it accepts integers that exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/hdmsantander/is-big-odd",
   "author": "Fabián Santander (https://github.com/hdmsantander)",
   "contributors": [],
