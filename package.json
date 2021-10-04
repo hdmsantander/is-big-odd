@@ -1,0 +1,27 @@
+{
+  "name": "is-big-odd",
+  "description": "Returns true if the given number is odd, it accepts integers that exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hdmsantander/is-big-odd",
+  "author": "Fabián Santander (https://github.com/hdmsantander)",
+  "contributors": [],
+  "repository": "hdmsantander/is-big-odd",
+  "bugs": {
+    "url": "https://github.com/hdmsantander/is-big-odd/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
