@@ -7,5 +7,5 @@ module.exports = function isBigOdd(value) {
 
   let num = BigInt(value);
 
-  return num & 1n;
+  return Boolean(num & 1n);
 };
